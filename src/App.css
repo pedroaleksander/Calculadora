@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.calcbox{
+
+background-color: #0c0c0c8e;
+}
+
+.calcular{
+  color: #1a1a1a;
+  
+}
+.calcular:hover {
+  background-color: #45a049;
+}
+
+
